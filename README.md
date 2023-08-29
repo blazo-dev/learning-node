@@ -1,6 +1,3 @@
-Absolutely, here's the text in plain format that you can directly add to your README:
-
-```
 # Node.js Learning Repository
 
 Welcome to my Node.js learning repository! This repository is designed to document my learning journey in the world of Node.js. Here, you'll find a collection of code examples, useful resources, and my own notes as I explore and develop applications with Node.js.
@@ -71,8 +68,4 @@ Here are some resources that have been helpful in my Node.js learning journey:
 - [Node.js on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects): JavaScript resources on MDN.
 - Books like "Node.js Design Patterns" by Mario Casciaro and "Node.js the Right Way" by Jim R. Wilson.
 - Online tutorials and blogs, such as [W3Schools](https://www.w3schools.com/nodejs/) and [Node.js.dev](https://nodejs.dev/).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it as per your needs.
-```
+- Midudev's node course: [Course](https://www.youtube.com/playlist?list=PLUofhDIg_38qm2oPOV-IRTTEKyrVBBaU7)
