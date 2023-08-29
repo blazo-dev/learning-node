@@ -25,7 +25,7 @@ Here are the steps to set up your Node.js development environment:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/blazo-dev/learning-nodejs.git
+   [git clone https://github.com/blazo-dev/learning-nodejs.git](https://github.com/blazo-dev/learning-node.git)
    ```
 
 2. Navigate to the project directory:
